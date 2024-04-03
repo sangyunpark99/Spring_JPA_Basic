@@ -1,4 +1,4 @@
-package com.example.spring_jpa_basic.chatper7.JoinColumn_startegy.복합키;
+package com.example.spring_jpa_basic.chatper7.복합키.복합키_Idclass;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
