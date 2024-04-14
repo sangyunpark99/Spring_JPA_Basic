@@ -1,4 +1,4 @@
-package com.example.spring_jpa_basic.chatper7.조인테이블;
+package com.example.spring_jpa_basic.chatper7.일대일조인테이블;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
